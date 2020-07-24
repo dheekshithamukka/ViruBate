@@ -1,0 +1,32 @@
+@media all and (min-width: 480px) {
+  .Login {
+    padding: 60px 0;
+  }
+
+  .LoginForm {
+    margin: 0 auto;
+    max-width: 320px;
+  }
+}
+
+#toast-container {
+  top: 30px;
+  right: 20px;
+  left: auto;
+}
+
+
+
+
+/* .App {
+  text-align: center;
+  background-image: url(./images/bg_login.PNG); 
+  margin-left: 675px;
+  margin-top: 50px;
+} */
+
+
+
+
+/* .item {border-bottom-style: none;}
+.item:focus {outline: none;} */

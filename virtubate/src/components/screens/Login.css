@@ -1,0 +1,28 @@
+.password{
+    border-bottom: 20px;
+    
+}
+
+/* .paper{
+    /* marginTop: theme.spacing(8), */
+    /* display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'left', 
+    background-image: url(./images/bg_login.PNG);
+} */
+.LogIn{
+    background-image: url('../../images/37672.jpg');
+}
+.image_grid {
+        /* height: '100vh', */
+    background-image: url('../../images/37672.jpg');
+    background-repeat: no-repeat;
+    background-size: "100% 100%";
+    /* background-position: center; */
+    height: 100%;
+    /* backgroundRepeat: 'no-repeat'; */
+    /* backgroundColor: */
+      /* theme.palette.type === 'light' ? theme.palette.grey[50] : theme.palette.grey[900], */
+    /* backgroundSize: 'cover'; */
+    /* backgroundPosition: 'center'; */
+}
